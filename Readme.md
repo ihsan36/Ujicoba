@@ -69,10 +69,12 @@ npm run eject
 **Catatan: ini adalah operasi satu arah. Setelah melakukan "eject", maka tidak dapat kembali!**
 
 
+
 <!-- LISENSI -->
 ## Lisensi
 
 Didistribusikan dengan lisensi C22-107. Silahkan cek `LISENSI.txt` untuk informasi selengkapnya.
+
 
 
 <!-- Kontak -->
@@ -82,7 +84,6 @@ Sinatra Kusuma - R009X0088 - sinatrakusuma302@gmail.com
 Ervan Muhammad Adrian - R237X0463 - ervanmuhammada454@gmail.com
 Enzi Marni - R132Y0225 - enjiimarnii@gmail.com
 Muhammad Ichsan Alfarabi - R009X0070 - ihsanredarmy36@gmail.com
-
 
 Project Link: [https://github.com/sinatrakusuma/capstone-project](https://github.com/sinatrakusuma/capstone-project)
 
