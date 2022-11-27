@@ -80,11 +80,11 @@ Didistribusikan dengan lisensi C22-107. Silahkan cek `LISENSI.txt` untuk informa
 <!-- Kontak -->
 ## Kontak
 
-Sinatra Kusuma - R009X0088 - sinatrakusuma302@gmail.com
-Ervan Muhammad Adrian - R237X0463 - ervanmuhammada454@gmail.com
-Enzi Marni - R132Y0225 - enjiimarnii@gmail.com
-Muhammad Ichsan Alfarabi - R009X0070 - ihsanredarmy36@gmail.com
+Sinatra Kusuma - R009X0088 - sinatrakusuma302@gmail.com <br>
+Ervan Muhammad Adrian - R237X0463 - ervanmuhammada454@gmail.com <br>
+Enzi Marni - R132Y0225 - enjiimarnii@gmail.com <br>
+Muhammad Ichsan Alfarabi - R009X0070 - ihsanredarmy36@gmail.com <br>
 
-Project Link: [https://github.com/sinatrakusuma/capstone-project](https://github.com/sinatrakusuma/capstone-project)
+Project Link: [https://github.com/sinatrakusuma/capstone-project](https://github.com/sinatrakusuma/capstone-project) <br>
 
 
